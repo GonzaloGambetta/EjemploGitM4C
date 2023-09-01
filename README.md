@@ -1,6 +1,6 @@
 # EjemploGitM4C
 
-Ejemplo de practica de Git. 
+Ejemplo de practica de Git.
 
 ### Comandos básicos
 - **git init**
